@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@GalaxyGamerYT**
-- 👀 I’m interested in `coding` and `gaming`.
+- 👀 I’m interested in `programming`, `gaming` and `artifitial inteligence`.
 - 💾 I am proficiant in `python`.
 - 🌱 I’m currently learning `Java`, `html`, `JavaScript`, `css`.
 - 💞️ I’m looking to collaborate on game development projects.
